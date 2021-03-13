@@ -73,13 +73,7 @@
     </bean>
 
 
-    <!--复杂类型的注入/集合类型的注入
-        用于给List结构集合注入的标签：
-            list array set
-        用于给Map结构集合注入的标签：
-            map props
-        结构相同，标签可以互换
-    -->
+    <!--复杂类型的注入/集合类型的注入-->
     <bean id="accountService3" class="com.xym.service.impl.AccountServiceImpl3">
         <property name="myStr">
             <array>

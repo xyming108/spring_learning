@@ -15,16 +15,22 @@ import java.util.Date;
 /**
  * 业务层实现类
  */
-public class AccountServiceImpl implements AccountService {
+public class AccountServiceImpl2 implements AccountService {
 
     //如果经常变化的数据，并不适用于注入的方式
     private String name;
     private Integer age;
     private Date birthday;
 
-    public AccountServiceImpl(String name, Integer age, Date birthday) {
+    public void setName(String name) {
         this.name = name;
+    }
+
+    public void setAge(Integer age) {
         this.age = age;
+    }
+
+    public void setBirthday(Date birthday) {
         this.birthday = birthday;
     }
 
