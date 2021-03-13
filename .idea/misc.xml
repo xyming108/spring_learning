@@ -8,6 +8,9 @@
       <list>
         <option value="$PROJECT_DIR$/Day1_01_jdbc/pom.xml" />
         <option value="$PROJECT_DIR$/Day1_02_factory/pom.xml" />
+        <option value="$PROJECT_DIR$/Day1_03_spring/pom.xml" />
+        <option value="$PROJECT_DIR$/Day1_04_bean/pom.xml" />
+        <option value="$PROJECT_DIR$/Day1_05_DI/pom.xml" />
       </list>
     </option>
   </component>

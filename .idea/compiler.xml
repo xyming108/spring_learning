@@ -6,13 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Day1_01_jdbc" />
+        <module name="Day1_05_DI" />
         <module name="Day1_02_factory" />
+        <module name="Day1_03_spring" />
+        <module name="Day1_01_jdbc" />
+        <module name="Day1_04_bean" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Day1_01_jdbc" target="1.8" />
       <module name="Day1_02_factory" target="1.5" />
+      <module name="Day1_03_spring" target="1.5" />
+      <module name="Day1_04_bean" target="1.5" />
+      <module name="Day1_05_DI" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

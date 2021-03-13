@@ -1,7 +1,5 @@
 package com.xym.service.impl;
 
-import com.xym.dao.AccountDao;
-import com.xym.factory.BeanFactory;
 import com.xym.service.AccountService;
 
 /**
@@ -17,11 +15,7 @@ import com.xym.service.AccountService;
  */
 public class AccountServiceImpl implements AccountService {
 
-    //private AccountDao accountDao = new AccountDaoImpl();
-
-    private AccountDao accountDao = (AccountDao) BeanFactory.getBean("accountDao");
-
     public void saveAccount() {
-        accountDao.saveAccount();
+        System.out.println("service中的saveAccount方法执行了.");
     }
 }
