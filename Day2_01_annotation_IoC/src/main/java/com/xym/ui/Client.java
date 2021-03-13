@@ -47,6 +47,7 @@ public class Client {
         AccountService as = (AccountService) ac.getBean("accountService");
         System.out.println(as);
 //        as.saveAccount();
+
     }
 }
 
