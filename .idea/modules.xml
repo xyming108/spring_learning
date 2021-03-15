@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/Day1_04_bean/Day1_04_bean.iml" filepath="$PROJECT_DIR$/Day1_04_bean/Day1_04_bean.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day1_05_DI/Day1_05_DI.iml" filepath="$PROJECT_DIR$/Day1_05_DI/Day1_05_DI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day2_01_annotation_IoC/Day2_01_annotation_IoC.iml" filepath="$PROJECT_DIR$/Day2_01_annotation_IoC/Day2_01_annotation_IoC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day2_02_account_xml_IoC/Day2_02_account_xml_IoC.iml" filepath="$PROJECT_DIR$/Day2_02_account_xml_IoC/Day2_02_account_xml_IoC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day2_03_account_annotation_IoC/Day2_03_account_annotation_IoC.iml" filepath="$PROJECT_DIR$/Day2_03_account_annotation_IoC/Day2_03_account_annotation_IoC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/Day2_04_account_annotation_withoutxml.iml" filepath="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/Day2_04_account_annotation_withoutxml.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring_learning.iml" filepath="$PROJECT_DIR$/.idea/spring_learning.iml" />
     </modules>
   </component>

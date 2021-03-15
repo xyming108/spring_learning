@@ -12,6 +12,9 @@
         <option value="$PROJECT_DIR$/Day1_04_bean/pom.xml" />
         <option value="$PROJECT_DIR$/Day1_05_DI/pom.xml" />
         <option value="$PROJECT_DIR$/Day2_01_annotation_IoC/pom.xml" />
+        <option value="$PROJECT_DIR$/Day2_02_account_xml_IoC/pom.xml" />
+        <option value="$PROJECT_DIR$/Day2_03_account_annotation_IoC/pom.xml" />
+        <option value="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/pom.xml" />
       </list>
     </option>
   </component>

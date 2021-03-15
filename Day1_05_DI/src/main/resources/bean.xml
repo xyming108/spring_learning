@@ -48,7 +48,6 @@
         <constructor-arg name="birthday" ref="now"></constructor-arg>
     </bean>
 
-
     <!--配置一个日期对象-->
     <bean id="now" class="java.util.Date"></bean>
 
@@ -80,6 +79,7 @@
             map props
         结构相同，标签可以互换
     -->
+
     <bean id="accountService3" class="com.xym.service.impl.AccountServiceImpl3">
         <property name="myStr">
             <array>

@@ -10,17 +10,23 @@
         <module name="Day1_05_DI" />
         <module name="Day2_01_annotation_IoC" />
         <module name="Day1_02_factory" />
+        <module name="Day2_04_account_annotation_withoutxml" />
+        <module name="Day2_02_account_xml_IoC" />
+        <module name="Day2_03_account_annotation_IoC" />
         <module name="Day1_03_spring" />
         <module name="Day1_04_bean" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Day1_01_jdbc" target="1.8" />
-      <module name="Day1_02_factory" target="1.5" />
-      <module name="Day1_03_spring" target="1.5" />
-      <module name="Day1_04_bean" target="1.5" />
-      <module name="Day1_05_DI" target="1.5" />
-      <module name="Day2_01_annotation_IoC" target="1.5" />
+      <module name="Day1_01_jdbc" target="8" />
+      <module name="Day1_02_factory" target="8" />
+      <module name="Day1_03_spring" target="8" />
+      <module name="Day1_04_bean" target="8" />
+      <module name="Day1_05_DI" target="8" />
+      <module name="Day2_01_annotation_IoC" target="8" />
+      <module name="Day2_02_account_xml_IoC" target="6" />
+      <module name="Day2_03_account_annotation_IoC" target="8" />
+      <module name="Day2_04_account_annotation_withoutxml" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

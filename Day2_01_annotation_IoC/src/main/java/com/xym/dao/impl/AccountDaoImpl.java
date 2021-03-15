@@ -1,6 +1,7 @@
 package com.xym.dao.impl;
 
 import com.xym.dao.AccountDao;
+import org.springframework.stereotype.Repository;
 
 /**
  * @user: Hasee
@@ -13,8 +14,9 @@ import com.xym.dao.AccountDao;
 /**
  * 账户的持久层实现类
  */
+@Repository("accountDao1")
 public class AccountDaoImpl implements AccountDao {
     public void saveAccount() {
-        System.out.println("保存了账户");
+        System.out.println("保存了账户1");
     }
 }
