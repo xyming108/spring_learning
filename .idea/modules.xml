@@ -11,6 +11,8 @@
       <module fileurl="file://$PROJECT_DIR$/Day2_02_account_xml_IoC/Day2_02_account_xml_IoC.iml" filepath="$PROJECT_DIR$/Day2_02_account_xml_IoC/Day2_02_account_xml_IoC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day2_03_account_annotation_IoC/Day2_03_account_annotation_IoC.iml" filepath="$PROJECT_DIR$/Day2_03_account_annotation_IoC/Day2_03_account_annotation_IoC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/Day2_04_account_annotation_withoutxml.iml" filepath="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/Day2_04_account_annotation_withoutxml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day3_01_account/Day3_01_account.iml" filepath="$PROJECT_DIR$/Day3_01_account/Day3_01_account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day3_02_proxy/Day3_02_proxy.iml" filepath="$PROJECT_DIR$/Day3_02_proxy/Day3_02_proxy.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring_learning.iml" filepath="$PROJECT_DIR$/.idea/spring_learning.iml" />
     </modules>
   </component>

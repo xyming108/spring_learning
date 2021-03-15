@@ -1,59 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a118c5c6-eed0-46c9-87db-b37e46d3d922" name="Default Changelist" comment="update">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbutils_commons_dbutils_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_01_annotation_IoC/src/main/java/com/xym/dao/impl/AccountDaoImpl2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_02_account_xml_IoC/Day2_02_account_xml_IoC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_02_account_xml_IoC/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_02_account_xml_IoC/src/main/java/com/xym/dao/AccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_02_account_xml_IoC/src/main/java/com/xym/dao/impl/AccountDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_02_account_xml_IoC/src/main/java/com/xym/domain/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_02_account_xml_IoC/src/main/java/com/xym/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_02_account_xml_IoC/src/main/java/com/xym/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_02_account_xml_IoC/src/main/resources/bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_02_account_xml_IoC/src/test/java/com/xym/test/AccountServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_03_account_annotation_IoC/Day2_03_account_annotation_IoC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_03_account_annotation_IoC/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_03_account_annotation_IoC/src/main/java/com/xym/dao/AccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_03_account_annotation_IoC/src/main/java/com/xym/dao/impl/AccountDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_03_account_annotation_IoC/src/main/java/com/xym/domain/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_03_account_annotation_IoC/src/main/java/com/xym/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_03_account_annotation_IoC/src/main/java/com/xym/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_03_account_annotation_IoC/src/main/resources/bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/Day2_04_account_annotation_withoutxml.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/src/main/java/com/xym/dao/AccountDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/src/main/java/com/xym/dao/impl/AccountDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/src/main/java/com/xym/domain/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/src/main/java/com/xym/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/src/main/java/com/xym/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/src/main/java/config/SpringConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/src/main/java/config/jdbcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/src/main/resources/bean.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/src/main/resources/jdbcConfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/src/test/java/com/xym/test/AccountServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/src/test/java/com/xym/test/QueryRunnerTest.java" afterDir="false" />
+    <list default="true" id="a118c5c6-eed0-46c9-87db-b37e46d3d922" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_1_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/Day3_01_account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/service/impl/AccountServiceImpl_OLD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/util/ConnectionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/util/TransactionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/src/main/resources/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/src/test/java/com/xym/test/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/target/classes/bean.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/target/classes/com/xym/dao/AccountDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/target/classes/com/xym/dao/impl/AccountDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/target/classes/com/xym/domain/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/target/classes/com/xym/service/AccountService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/target/classes/com/xym/service/impl/AccountServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/target/classes/com/xym/util/ConnectionUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/target/classes/com/xym/util/TransactionManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_01_account/target/test-classes/com/xym/test/AccountServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_02_proxy/Day3_02_proxy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_02_proxy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_02_proxy/src/main/java/com/xym/cgib/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_02_proxy/src/main/java/com/xym/cgib/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_02_proxy/src/main/java/com/xym/proxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_02_proxy/src/main/java/com/xym/proxy/IProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_02_proxy/src/main/java/com/xym/proxy/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_02_proxy/target/Day3_02_proxy-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_02_proxy/target/classes/com/xym/cgib/Client$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_02_proxy/target/classes/com/xym/cgib/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_02_proxy/target/classes/com/xym/cgib/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_02_proxy/target/classes/com/xym/proxy/Client$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_02_proxy/target/classes/com/xym/proxy/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_02_proxy/target/classes/com/xym/proxy/IProducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_02_proxy/target/classes/com/xym/proxy/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_02_proxy/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_02_proxy/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_02_proxy/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3_02_proxy/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1_02_factory/Day1_02_factory.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Day1_02_factory/Day1_02_factory.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1_03_spring/Day1_03_spring.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Day1_03_spring/Day1_03_spring.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1_04_bean/Day1_04_bean.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Day1_04_bean/Day1_04_bean.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1_05_DI/Day1_05_DI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Day1_05_DI/Day1_05_DI.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day1_05_DI/src/main/resources/bean.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Day1_05_DI/src/main/resources/bean.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day2_01_annotation_IoC/Day2_01_annotation_IoC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Day2_01_annotation_IoC/Day2_01_annotation_IoC.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day2_01_annotation_IoC/src/main/java/com/xym/dao/impl/AccountDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day2_01_annotation_IoC/src/main/java/com/xym/dao/impl/AccountDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day2_01_annotation_IoC/src/main/java/com/xym/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day2_01_annotation_IoC/src/main/java/com/xym/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day2_01_annotation_IoC/src/main/java/com/xym/ui/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day2_01_annotation_IoC/src/main/java/com/xym/ui/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day2_01_annotation_IoC/target/classes/com/xym/dao/impl/AccountDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Day2_01_annotation_IoC/target/classes/com/xym/dao/impl/AccountDaoImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day2_01_annotation_IoC/target/classes/com/xym/service/impl/AccountServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/Day2_01_annotation_IoC/target/classes/com/xym/service/impl/AccountServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day2_01_annotation_IoC/target/classes/com/xym/ui/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/Day2_01_annotation_IoC/target/classes/com/xym/ui/Client.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/Day1_01_jdbc/target/" />
     <ignored path="$PROJECT_DIR$/Day1_02_factory/target/" />
@@ -64,6 +58,8 @@
     <ignored path="$PROJECT_DIR$/Day2_02_account_xml_IoC/target/" />
     <ignored path="$PROJECT_DIR$/Day2_03_account_annotation_IoC/target/" />
     <ignored path="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/target/" />
+    <ignored path="$PROJECT_DIR$/Day3_01_account/target/" />
+    <ignored path="$PROJECT_DIR$/Day3_02_proxy/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,23 +101,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/src/test/java/com/xym/test/AccountServiceTest.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day3_02_proxy/src/main/java/com/xym/cgib/Producer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="337">
+              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runner/RunWith.class">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day3_02_proxy/src/main/java/com/xym/cgib/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+            <state relative-caret-position="21">
+              <caret line="55" selection-start-line="55" selection-end-line="56" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -142,21 +138,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day1_02_factory/src/main/java/com/xym/dao/impl/AccountDaoImpl.java" />
-        <option value="$PROJECT_DIR$/Day1_02_factory/src/main/resources/bean.properties" />
-        <option value="$PROJECT_DIR$/Day1_01_jdbc/src/main/java/com/xym/jdbc/test.java" />
-        <option value="$PROJECT_DIR$/Day1_02_factory/src/main/java/com/xym/dao/impl/fddsf.java" />
-        <option value="$PROJECT_DIR$/Day1_02_factory/src/main/java/com/xym/service/impl/aaa.java" />
-        <option value="$PROJECT_DIR$/Day1_02_factory/src/main/java/com/xym/ui/Client.java" />
-        <option value="$PROJECT_DIR$/Day1_02_factory/src/main/java/com/xym/factory/BeanFactory.java" />
-        <option value="$PROJECT_DIR$/Day1_02_factory/src/main/java/com/xym/factory/ttt.java" />
-        <option value="$PROJECT_DIR$/Day1_02_factory/src/main/java/com/xym/service/impl/AccountServiceImpl.java" />
-        <option value="$PROJECT_DIR$/Day1_03_spring/pom.xml" />
-        <option value="$PROJECT_DIR$/Day1_03_spring/src/main/resources/bean.xml" />
-        <option value="$PROJECT_DIR$/Day1_03_spring/src/main/java/com/xym/service/impl/AccountServiceImpl.java" />
-        <option value="$PROJECT_DIR$/Day1_03_spring/src/main/java/com/xym/ui/Client.java" />
-        <option value="$PROJECT_DIR$/Day1_04_bean/pom.xml" />
-        <option value="$PROJECT_DIR$/Day1_04_bean/src/main/java/com/xym/fantory/InstanceFactory.java" />
         <option value="$PROJECT_DIR$/Day1_04_bean/src/main/java/com/xym/factory/StaticFactory.java" />
         <option value="$PROJECT_DIR$/Day1_04_bean/src/main/java/com/xym/service/impl/AccountServiceImpl.java" />
         <option value="$PROJECT_DIR$/Day1_04_bean/src/main/java/com/xym/ui/Client.java" />
@@ -193,6 +174,21 @@
         <option value="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/src/main/java/config/jdbcConfig.java" />
         <option value="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/pom.xml" />
         <option value="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/src/test/java/com/xym/test/AccountServiceTest.java" />
+        <option value="$PROJECT_DIR$/Day3_01_account/pom.xml" />
+        <option value="$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/service/AccountService.java" />
+        <option value="$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/dao/AccountDao.java" />
+        <option value="$PROJECT_DIR$/Day3_01_account/src/test/java/com/xym/test/AccountServiceTest.java" />
+        <option value="$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/util/TransactionManager.java" />
+        <option value="$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/util/ConnectionUtils.java" />
+        <option value="$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/dao/impl/AccountDaoImpl.java" />
+        <option value="$PROJECT_DIR$/Day3_01_account/src/main/resources/bean.xml" />
+        <option value="$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/service/impl/AccountServiceImpl_OLD.java" />
+        <option value="$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/service/impl/AccountServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Day3_02_proxy/src/main/java/com/xym/proxy/Producer.java" />
+        <option value="$PROJECT_DIR$/Day3_02_proxy/src/main/java/com/xym/proxy/IProducer.java" />
+        <option value="$PROJECT_DIR$/Day3_02_proxy/src/main/java/com/xym/proxy/Client.java" />
+        <option value="$PROJECT_DIR$/Day3_02_proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/Day3_02_proxy/src/main/java/com/xym/cgib/Client.java" />
       </list>
     </option>
   </component>
@@ -220,17 +216,7 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Day2_04_account_annotation_withoutxml" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Day2_04_account_annotation_withoutxml" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
+      <expand />
       <select />
     </treeState>
   </component>
@@ -239,9 +225,9 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="875" />
+    <option name="x" value="845" />
     <option name="y" value="37" />
-    <option name="width" value="1060" />
+    <option name="width" value="1090" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -264,152 +250,44 @@
             <path>
               <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2_04_account_annotation_withoutxml" type="462c0819:PsiDirectoryNode" />
+              <item name="Day3_02_proxy" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2_04_account_annotation_withoutxml" type="462c0819:PsiDirectoryNode" />
+              <item name="Day3_02_proxy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2_04_account_annotation_withoutxml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2_04_account_annotation_withoutxml" type="462c0819:PsiDirectoryNode" />
+              <item name="Day3_02_proxy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2_04_account_annotation_withoutxml" type="462c0819:PsiDirectoryNode" />
+              <item name="Day3_02_proxy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2_04_account_annotation_withoutxml" type="462c0819:PsiDirectoryNode" />
+              <item name="Day3_02_proxy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xym" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2_04_account_annotation_withoutxml" type="462c0819:PsiDirectoryNode" />
+              <item name="Day3_02_proxy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xym" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2_04_account_annotation_withoutxml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xym" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2_04_account_annotation_withoutxml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xym" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2_04_account_annotation_withoutxml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xym" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2_04_account_annotation_withoutxml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xym" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2_04_account_annotation_withoutxml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2_04_account_annotation_withoutxml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2_04_account_annotation_withoutxml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2_04_account_annotation_withoutxml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2_04_account_annotation_withoutxml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2_04_account_annotation_withoutxml" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="xym" type="462c0819:PsiDirectoryNode" />
@@ -417,12 +295,30 @@
             <path>
               <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
-              <item name="Day2_04_account_annotation_withoutxml" type="462c0819:PsiDirectoryNode" />
+              <item name="Day3_02_proxy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="xym" type="462c0819:PsiDirectoryNode" />
+              <item name="cgib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Day3_02_proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="xym" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Day3_02_proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -437,7 +333,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day3_02_proxy/src/main/java/com/xym/cgib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -448,17 +344,17 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xym.service.impl" />
       <recent name="com.xym.test" />
       <recent name="com.xym.dao.impl" />
-      <recent name="com.xym.service.impl" />
       <recent name="com.xym.factory" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java Code\spring_learning\Day3_02_proxy\src\main\java\com\xym\cgib" />
+      <recent name="E:\Java Code\spring_learning\Day3_01_account\src\main\resources" />
+      <recent name="E:\Java Code\spring_learning\Day3_01_account\src\main\java" />
       <recent name="E:\Java Code\spring_learning\Day2_04_account_annotation_withoutxml\src\main\resources" />
       <recent name="E:\Java Code\spring_learning\Day2_04_account_annotation_withoutxml\src\main\java" />
-      <recent name="E:\Java Code\spring_learning\Day2_03_account_annotation_IoC\src\main\resources" />
-      <recent name="E:\Java Code\spring_learning\Day2_03_account_annotation_IoC\src\main\java" />
-      <recent name="E:\Java Code\spring_learning\Day2_01_annotation_IoC\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -473,19 +369,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AccountServiceTest.testFindAll (1)">
-    <configuration name="AccountServiceTest.testDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Day2_04_account_annotation_withoutxml" />
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xym.cgib.Client" />
+      <module name="Day3_02_proxy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xym.test.*" />
+          <option name="PATTERN" value="com.xym.cgib.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.xym.test" />
-      <option name="MAIN_CLASS_NAME" value="com.xym.test.AccountServiceTest" />
-      <option name="METHOD_NAME" value="testDelete" />
-      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xym.proxy.Client" />
+      <module name="Day3_02_proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xym.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -522,8 +428,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccountServiceTest.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Day2_04_account_annotation_withoutxml" />
+    <configuration name="AccountServiceTest.testTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Day3_01_account" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.xym.test.*" />
@@ -532,23 +438,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.xym.test" />
       <option name="MAIN_CLASS_NAME" value="com.xym.test.AccountServiceTest" />
-      <option name="METHOD_NAME" value="testUpdate" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="QueryRunnerTest.testQueryRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Day2_04_account_annotation_withoutxml" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xym.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.xym.test" />
-      <option name="MAIN_CLASS_NAME" value="com.xym.test.QueryRunnerTest" />
-      <option name="METHOD_NAME" value="testQueryRunner" />
+      <option name="METHOD_NAME" value="testTransfer" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -556,34 +446,22 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.AccountServiceTest.testFindAll (1)" />
-      <item itemvalue="JUnit.AccountServiceTest.testUpdate" />
-      <item itemvalue="JUnit.AccountServiceTest.testDelete" />
-      <item itemvalue="JUnit.QueryRunnerTest.testQueryRunner" />
       <item itemvalue="JUnit.AccountServiceTest.testFindOne" />
+      <item itemvalue="JUnit.AccountServiceTest.testTransfer" />
+      <item itemvalue="Application.Client" />
+      <item itemvalue="Application.Client (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="JUnit.AccountServiceTest.testTransfer" />
         <item itemvalue="JUnit.AccountServiceTest.testFindAll (1)" />
         <item itemvalue="JUnit.AccountServiceTest.testFindOne" />
-        <item itemvalue="JUnit.QueryRunnerTest.testQueryRunner" />
-        <item itemvalue="JUnit.AccountServiceTest.testDelete" />
-        <item itemvalue="JUnit.AccountServiceTest.testUpdate" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="AccountServiceTest_testFindAll_(1) - 2021.03.14 at 20h 16m 54s.xml">
-      <configuration name="AccountServiceTest.testFindAll (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AccountServiceTest_testFindAll_(1) - 2021.03.14 at 21h 17m 55s.xml">
-      <configuration name="AccountServiceTest.testFindAll (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AccountServiceTest_testFindAll_(1) - 2021.03.14 at 21h 19m 10s.xml">
-      <configuration name="AccountServiceTest.testFindAll (1)" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AccountServiceTest_testFindAll_(1) - 2021.03.14 at 21h 20m 59s.xml">
-      <configuration name="AccountServiceTest.testFindAll (1)" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AccountServiceTest_testFindAll_(1) - 2021.03.14 at 22h 19m 42s.xml">
       <configuration name="AccountServiceTest.testFindAll (1)" configurationId="JUnit" />
     </history-entry>
@@ -602,12 +480,24 @@
     <history-entry file="AccountServiceTest_testFindAll_(1) - 2021.03.14 at 23h 00m 14s.xml">
       <configuration name="AccountServiceTest.testFindAll (1)" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AccountServiceTest_testTransfer - 2021.03.15 at 14h 14m 34s.xml">
+      <configuration name="AccountServiceTest.testTransfer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountServiceTest_testTransfer - 2021.03.15 at 16h 56m 19s.xml">
+      <configuration name="AccountServiceTest.testTransfer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountServiceTest_testTransfer - 2021.03.15 at 16h 56m 42s.xml">
+      <configuration name="AccountServiceTest.testTransfer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountServiceTest_testTransfer - 2021.03.15 at 16h 57m 42s.xml">
+      <configuration name="AccountServiceTest.testTransfer" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="700" y="30" width="848" height="840" extended-state="0" />
+    <frame x="676" y="30" width="872" height="840" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858758" weight="0.4111675" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49858758" weight="0.33497536" />
       <window_info id="Structure" order="1" sideWeight="0.50141245" side_tool="true" weight="0.3147651" />
       <window_info id="设计师" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -621,7 +511,7 @@
       <window_info anchor="bottom" id="Problems" order="2" weight="0.32909605" />
       <window_info anchor="bottom" id="Find" order="3" sideWeight="0.49929675" weight="0.32794118" />
       <window_info anchor="bottom" id="消息" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49463087" weight="0.41617647" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49463087" weight="0.35227272" />
       <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.49798658" weight="0.46470588" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
@@ -631,7 +521,7 @@
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.32909605" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5053691" side_tool="true" weight="0.41666666" />
       <window_info anchor="bottom" id="Version Control" order="14" weight="0.32941177" />
-      <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.4969988" weight="0.32352942" />
+      <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.4969988" weight="0.32303372" />
       <window_info anchor="bottom" id="Inspection" order="16" weight="0.4" />
       <window_info anchor="bottom" id="Application Servers" order="17" weight="0.32909605" />
       <window_info anchor="bottom" id="Database Console" order="18" weight="0.32647058" />
@@ -642,10 +532,10 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.22013423" />
       <window_info anchor="right" id="控制板" order="3" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" weight="0.29822335" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.29679802" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" weight="0.270636" />
+      <window_info anchor="right" id="Database" order="8" weight="0.26970443" />
       <window_info anchor="right" id="Palette" order="9" />
       <window_info anchor="right" x="735" y="124" width="683" height="458" id="aiXcoder" order="10" weight="0.25260416" />
     </layout>
@@ -700,196 +590,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day1_05_DI/src/main/java/com/xym/service/impl/AccountServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#374#375#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day1_05_DI/src/main/java/com/xym/service/impl/AccountServiceImpl2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#479#480#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#548#549#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#634#635#0" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#705#706#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day1_05_DI/src/main/java/com/xym/service/impl/AccountServiceImpl3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#623#624#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#759#760#0" expanded="true" />
-            <element signature="e#793#794#0" expanded="true" />
-            <element signature="e#843#844#0" expanded="true" />
-            <element signature="e#881#882#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_01_annotation_IoC/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.0.2.RELEASE/spring-beans-5.0.2.RELEASE.jar!/org/springframework/beans/factory/annotation/Autowired.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="14" column="35" lean-forward="true" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_01_annotation_IoC/src/main/java/com/xym/service/impl/AccountServiceImpl2.java" />
-    <entry file="file://$PROJECT_DIR$/Day2_01_annotation_IoC/src/main/java/com/xym/dao/AccountDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_01_annotation_IoC/src/main/java/com/xym/service/AccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day1_03_spring/src/main/resources/bean.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day1_02_factory/src/main/resources/bean.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_01_annotation_IoC/src/main/java/com/xym/dao/impl/AccountDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="49" lean-forward="true" selection-start-line="3" selection-start-column="49" selection-end-line="3" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#331#332#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_01_annotation_IoC/src/main/java/com/xym/dao/impl/AccountDaoImpl2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_01_annotation_IoC/src/main/java/com/xym/service/impl/AccountServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day1_01_jdbc/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day1_04_bean/src/main/resources/bean.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="3" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_02_account_xml_IoC/src/main/java/com/xym/dao/AccountDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-316">
-          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_02_account_xml_IoC/src/main/java/com/xym/dao/impl/AccountDaoImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="12" column="25" lean-forward="true" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_02_account_xml_IoC/src/main/java/com/xym/domain/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding>
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-            <element signature="e#462#463#0" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_02_account_xml_IoC/src/main/java/com/xym/service/AccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day2_02_account_xml_IoC/src/test/java/com/xym/test/AccountServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -916,20 +616,6 @@
             <element signature="e#1007#1008#0" expanded="true" />
             <element signature="e#1057#1058#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_02_account_xml_IoC/src/main/resources/bean.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day2_02_account_xml_IoC/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -973,13 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1795">
           <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://9a8c6f03-0140-4f9e-823a-907570a27aa6/schema/spring_account/table/account">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
         </state>
       </provider>
     </entry>
@@ -1147,8 +826,215 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day2_04_account_annotation_withoutxml/src/test/java/com/xym/test/AccountServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="271">
+          <caret line="26" column="3" lean-forward="true" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day2_02_account_xml_IoC/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="39" column="30" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/domain/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day2_02_account_xml_IoC/src/main/resources/bean.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="11" lean-forward="true" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_01_account/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="40" selection-start-line="25" selection-start-column="40" selection-end-line="25" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/intelliJ IDE 2019/jdk/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="19" selection-end-line="51" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/service/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="55" column="9" selection-start-line="55" selection-start-column="9" selection-end-line="55" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/dao/AccountDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="43" column="21" selection-start-line="43" selection-start-column="21" selection-end-line="43" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/util/TransactionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding>
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/util/ConnectionUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#311#323#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#489#490#0" expanded="true" />
+            <element signature="e#1033#1034#0" expanded="true" />
+            <element signature="e#1060#1061#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_01_account/src/main/resources/bean.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="59" selection-start-line="8" selection-start-column="59" selection-end-line="8" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/dao/impl/AccountDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#693#694#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://9a8c6f03-0140-4f9e-823a-907570a27aa6/schema/spring_account/table/account">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_01_account/src/test/java/com/xym/test/AccountServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/service/impl/AccountServiceImpl_OLD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="64" column="42" selection-start-line="64" selection-start-column="42" selection-end-line="64" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_01_account/src/main/java/com/xym/service/impl/AccountServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+            <element signature="e#1013#1014#0" expanded="true" />
+            <element signature="e#1064#1065#0" expanded="true" />
+            <element signature="e#1128#1129#0" expanded="true" />
+            <element signature="e#1181#1182#0" expanded="true" />
+            <element signature="e#1246#1247#0" expanded="true" />
+            <element signature="e#1300#1301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_02_proxy/src/main/java/com/xym/proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_02_proxy/src/main/java/com/xym/proxy/IProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_02_proxy/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_02_proxy/src/main/java/com/xym/cgib/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_02_proxy/src/main/java/com/xym/proxy/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_02_proxy/src/main/java/com/xym/proxy/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="70" column="37" lean-forward="true" selection-start-line="61" selection-start-column="24" selection-end-line="70" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day3_02_proxy/src/main/java/com/xym/cgib/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="55" selection-start-line="55" selection-end-line="56" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
