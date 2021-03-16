@@ -19,10 +19,6 @@ public class AccountServiceImpl implements AccountService {
     private AccountDao accountDao;
     private TransactionManager transactionManager;
 
-    public void setTransactionManager(TransactionManager transactionManager) {
-        this.transactionManager = transactionManager;
-    }
-
     public void setAccountDao(AccountDao accountDao) {
         this.accountDao = accountDao;
     }
@@ -54,6 +50,7 @@ public class AccountServiceImpl implements AccountService {
 
     @Override
     public void transfer(String sourceName, String targetName, Float money) {
+        System.out.println("transfer......");
         //根据名称查询转出账户
         Account source = accountDao.findAccountByName(sourceName);
         //根据名称查询转入账户

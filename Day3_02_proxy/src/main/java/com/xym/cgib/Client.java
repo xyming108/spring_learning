@@ -37,7 +37,7 @@ public class Client {
          *      涉及的类：Enhancer
          *      提供者：第三方cglib库
          * 如何创建代理对象：
-         *      使用Enhancer类中的creat方法
+         *      使用Enhancer类中的create方法
          * 创建代理对象的要求：
          *      被代理类不能是最终类
          * newProxyInstance方法的参数：

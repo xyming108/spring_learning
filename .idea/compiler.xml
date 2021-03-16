@@ -6,17 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Day2_03_account_annotation_IoC" />
         <module name="Day1_01_jdbc" />
         <module name="Day1_05_DI" />
         <module name="Day2_01_annotation_IoC" />
         <module name="Day1_02_factory" />
-        <module name="Day3_02_proxy" />
+        <module name="Day3_03_spring_AOP" />
         <module name="Day3_01_account" />
         <module name="Day2_04_account_annotation_withoutxml" />
+        <module name="Day3_02_proxy" />
         <module name="Day2_02_account_xml_IoC" />
-        <module name="Day2_03_account_annotation_IoC" />
         <module name="Day1_03_spring" />
         <module name="Day1_04_bean" />
+        <module name="Day3_04_adviceType" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -31,6 +33,8 @@
       <module name="Day2_04_account_annotation_withoutxml" target="8" />
       <module name="Day3_01_account" target="8" />
       <module name="Day3_02_proxy" target="8" />
+      <module name="Day3_03_spring_AOP" target="8" />
+      <module name="Day3_04_adviceType" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
